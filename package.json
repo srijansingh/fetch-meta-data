@@ -1,6 +1,6 @@
 {
   "name": "meta-data-fetcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch Meta Data of various websites",
   "main": "index.js",
   "scripts": {
