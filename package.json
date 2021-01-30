@@ -1,0 +1,29 @@
+{
+  "name": "fetch-meta-data",
+  "version": "1.0.0",
+  "description": "Fetch Meta Data of various websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srijansingh/fetch-meta-data.git"
+  },
+  "keywords": [
+    "meta-data-fetcher",
+    "metadata",
+    "fetcher",
+    "data-scrapper"
+  ],
+  "author": "Srijan Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srijansingh/fetch-meta-data/issues"
+  },
+  "homepage": "https://github.com/srijansingh/fetch-meta-data#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request-promise": "^4.2.6"
+  }
+}
