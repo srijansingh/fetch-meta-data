@@ -9,7 +9,7 @@ Get meta data of any website.
 # Usage
 
 ```
-const { metaDataFetcher } = require('fetch-meta-data');
+const { metaDataFetcher } = require('meta-data-fetcher');
 
 const getData = async() => {
 
