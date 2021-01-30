@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/srijansingh/fetch-meta-data.git"
+    "url": "git+https://github.com/srijansingh/meta-data-fetcher.git"
   },
   "keywords": [
     "meta-data-fetcher",
@@ -19,9 +19,9 @@
   "author": "Srijan Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/srijansingh/fetch-meta-data/issues"
+    "url": "https://github.com/srijansingh/meta-data-fetcher/issues"
   },
-  "homepage": "https://github.com/srijansingh/fetch-meta-data#readme",
+  "homepage": "https://github.com/srijansingh/meta-data-fetcher#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.5",
     "request-promise": "^4.2.6"
