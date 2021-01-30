@@ -4,7 +4,7 @@ Get meta data of any website.
 
 # Installation
 
-`npm install --save fetch-meta-data`
+`npm install --save meta-data-fetcher`
 
 # Usage
 
