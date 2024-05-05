@@ -1,20 +1,21 @@
 {
   "name": "meta-data-fetcher",
-  "version": "1.0.3",
-  "description": "Fetch Meta Data of various websites",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "2.0.0",
+  "description": "A Node.js library for fetching metadata (title, description, images, etc.) from various websites.",
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/srijansingh/meta-data-fetcher.git"
   },
   "keywords": [
-    "meta-data-fetcher",
     "metadata",
     "fetcher",
-    "data-scrapper"
+    "web scraping",
+    "web scraping tool",
+    "web scraping library",
+    "data scraping",
+    "data scrapper",
+    "data scraper"
   ],
   "author": "Srijan Singh",
   "license": "ISC",
@@ -24,6 +25,7 @@
   "homepage": "https://github.com/srijansingh/meta-data-fetcher#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2",
     "request-promise": "^4.2.6"
   }
 }
